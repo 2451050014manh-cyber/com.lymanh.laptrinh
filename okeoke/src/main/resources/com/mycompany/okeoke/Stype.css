@@ -1,0 +1,19 @@
+.container {
+    -fx-background-color: skyblue;
+    -fx-alignment: CENTER;
+    -fx-spacign: 10;
+}
+.subject {
+    -fx-font-size: 40;
+    -fx-font_weight: bold;
+    -fx-stroke-width: 3;
+    -fx-fill: pink;
+    -fx-stroke: gold; 
+}
+.button {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+    -fx-pref-width:200;
+    -fx-padding:10;
+    -fx-font-size: 16;
+}
